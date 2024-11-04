@@ -1,0 +1,15 @@
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\bin\Debug\net8.0\Estacionamento1.exe
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\bin\Debug\net8.0\Estacionamento1.deps.json
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\bin\Debug\net8.0\Estacionamento1.runtimeconfig.json
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\bin\Debug\net8.0\Estacionamento1.dll
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\bin\Debug\net8.0\Estacionamento1.pdb
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.AssemblyInfoInputs.cache
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.AssemblyInfo.cs
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.csproj.CoreCompileInputs.cache
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.sourcelink.json
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.dll
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\refint\Estacionamento1.dll
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.pdb
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\Estacionamento1.genruntimeconfig.cache
+C:\Users\Adm\OneDrive\Documentos\DIO_Cursos\.Net\Desafios\Estacionamento1\obj\Debug\net8.0\ref\Estacionamento1.dll
